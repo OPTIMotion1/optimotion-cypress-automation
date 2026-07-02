@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Cypress generated files
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Environment variables
+cypress.env.json
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
